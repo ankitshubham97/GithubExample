@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(MainActivity.this,"Hello world!",Toast.LENGTH_SHORT).show();
         //second change:
         Toast.makeText(MainActivity.this,"Hello world again!",Toast.LENGTH_SHORT).show();
+        //third change:
+        Toast.makeText(MainActivity.this,"Hello world again 3!",Toast.LENGTH_SHORT).show();
     }
 }
